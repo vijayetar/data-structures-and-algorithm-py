@@ -1,7 +1,7 @@
 ## __Array Binary Search__
 ### [Table of Contents](../../../README.md)
 See [solution](array_binary_search.py)
-PR https://github.com/vijayetar/data-structures-and-algorithm-py/pull/1
+PR https://github.com/vijayetar/data-structures-and-algorithm-py/pull/2
 
     This is code challenge to to find a target number within an array using binary search.
 
