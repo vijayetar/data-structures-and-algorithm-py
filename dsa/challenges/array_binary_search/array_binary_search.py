@@ -1,4 +1,4 @@
-def BinarySearch(arr, el):
+def binary_search(arr, el):
     l = 0
     h = len(arr)-1
 
@@ -33,3 +33,5 @@ def quick_method_search(arr,el):
     if el not in arr:
         return -1
     return arr.index(el)
+
+

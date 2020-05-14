@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/vijayetar/codefellows/401/data-structures-and-algorithms-python/.venv"
+VIRTUAL_ENV="/Users/vijayetar/codefellows/401/data-structures-and-algorithms-py/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
