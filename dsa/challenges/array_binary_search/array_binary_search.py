@@ -1,4 +1,4 @@
-def binary_search(arr, el):
+def BinarySearch(arr, el):
     l = 0
     h = len(arr)-1
 

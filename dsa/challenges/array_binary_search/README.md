@@ -1,6 +1,6 @@
 ## __Array Binary Search__
 ### [Table of Contents](../../../README.md)
-See [solution](array_binary_search.py)  
+See [solution](array_binary_search.py)
 PR https://github.com/vijayetar/data-structures-and-algorithm-py/pull/1
 
     This is code challenge to to find a target number within an array using binary search.
@@ -26,10 +26,10 @@ PR https://github.com/vijayetar/data-structures-and-algorithm-py/pull/1
 * __Checklist__
 - [x] Top-level README “Table of Contents” is updated
  - [x] Feature tasks for this challenge are completed
- - [ ] Unit tests written and passing
-     - [ ] “Happy Path” - Expected outcome
-     - [ ] Expected failure
-     - [ ] Edge Case (if applicable/obvious)
+ - [x] Unit tests written and passing
+     - [x] “Happy Path” - Expected outcome
+     - [x] Expected failure
+     - [x] Edge Case (if applicable/obvious)
  - [x] README for this challenge is complete
      - [x] Summary, Description, Approach & Efficiency, Solution
      - [x] Link to code
